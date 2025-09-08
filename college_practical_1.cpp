@@ -20,7 +20,7 @@ public:
     void show_data()
     {
         cout << "length > " << length << endl;
-        cout << "breadth > " << breadth << endl;
+        cout << "breadth > " << breadth << endl <endl;
     }
 };
 
